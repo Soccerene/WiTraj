@@ -9,7 +9,7 @@ Setting
 ----
 WiTraj requires four WiFi devices, i.e., one WiFi transmitter and three WiFi receivers. The placement of WiFi devices and field setting are shown below:
 
-<img src="image/outdoor.jpg" width="40%">  <img src="image/corridor.jpg" width="40%">
+<img src="image/outdoor.jpg" width="45%">  <img src="image/corridor.jpg" width="45%">
 
 We set Tx to injection mode with a package injection rate of 400 per second, and Rx to monitor mode, so that three Rx can record CSI data simultaneously. WiTraj requires each Rx has no less than two antennas.
 
@@ -43,6 +43,6 @@ The entrance for single data processing. Load main.m in matlab and run. The outp
 * batch.m
 The entrance for batch processing. Replace `dire` to calculate each trajectory shape in that directory. The output is the same as *main.m*.
 
-Here are some samples of the trajectory reconstruction:
+Here are some examples of the trajectory reconstruction:
 
 <img src="image/track_circle.png" width="40%">  <img src="image/track_diamond.png" width="40%">
