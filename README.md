@@ -45,5 +45,4 @@ The entrance for batch processing. Replace `dire` to calculate each trajectory s
 
 Here are some samples of the trajectory reconstruction:
 
-<img src="image/track_circle.png" width="40%">
-<img src="image/track_diamond.png" width="40%">
+<img src="image/track_circle.png" width="40%">  <img src="image/track_diamond.png" width="40%">
