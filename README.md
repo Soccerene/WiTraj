@@ -1,9 +1,9 @@
-WiTraj: WiFi-based Trajectory Reconstruction
+WiTraj: WiFi-based Motion Trajectory Reconstruction
 ====
 
 Description
 ----
-WiTraj is a WiFi-based trajectory reconstruction system. It tracks a person's motion contactlessly with a WiFi transmitter and three WiFi receivers. WiTraj uses the channel state information (CSI) extracted from WiFi receivers to estimate the Doppler Frequency Shift (DFS) caused by the person. It then uses the DFS and information of device positions to reconstruct the human motion trajectory. This project contains all the matlab code and sample data for WiTraj motion tracking system.
+WiTraj is a WiFi-based motion trajectory reconstruction system. It tracks a person's motion contactlessly with a WiFi transmitter and three WiFi receivers. WiTraj uses the channel state information (CSI) extracted from WiFi receivers to estimate the Doppler Frequency Shift (DFS) caused by the person. It then uses the DFS and information of device positions to reconstruct the human motion trajectory. This project contains all the matlab code and sample data for WiTraj motion tracking system.
 
 Setting
 ----
