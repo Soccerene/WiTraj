@@ -23,13 +23,19 @@ Code Structure
 ----
 WiTraj	 repository
 * code 		-- matlab code
+
 main.m 	-- entrance for single data processing
+
 batch.m 	-- entrance for batch processing
 
 * data		-- sample CSI data
-circle 	-- circle track 
+
+circle 	-- circle track
+
 square 	-- square track
+
 N 		-- zigzag track
+
 Z 		-- zigzag track
 
 Usage Example
