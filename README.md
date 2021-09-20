@@ -44,5 +44,6 @@ The entrance for single data processing. Load main.m in matlab and run. The outp
 The entrance for batch processing. Replace `dire` to calculate each trajectory shape in that directory. The output is the same as *main.m*.
 
 Here are some samples of the trajectory reconstruction:
-![circle]()
+![circle](image/track_circle.png)
+![circle](image/track_diamond.png)
 
