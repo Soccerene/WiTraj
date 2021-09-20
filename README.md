@@ -9,8 +9,7 @@ Setting
 ----
 WiTraj requires four WiFi devices, i.e., one WiFi transmitter and three WiFi receivers. The placement of WiFi devices and field setting are shown below:
 
-<img src="image/outdoor.jpg" width="40%">
-<img src="image/corridor.jpg" width="40%">
+<img src="image/outdoor.jpg" width="40%">  <img src="image/corridor.jpg" width="40%">
 
 We set Tx to injection mode with a package injection rate of 400 per second, and Rx to monitor mode, so that three Rx can record CSI data simultaneously. WiTraj requires each Rx has no less than two antennas.
 
